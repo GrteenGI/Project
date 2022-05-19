@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Block">
+        <file>rec_block/Block_blocker.png</file>
+        <file>rec_block/Block_space.png</file>
+        <file>rec_block/Candy.jpg</file>
+    </qresource>
+    <qresource prefix="/Snake">
+        <file>rec_snake/Snake_head.jpg</file>
+        <file>rec_snake/Snake_body.png</file>
+    </qresource>
+</RCC>

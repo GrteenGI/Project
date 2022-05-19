@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rec/block">
+        <file>rec_block/Block_blocker.png</file>
+    </qresource>
+</RCC>
