@@ -1,0 +1,5 @@
+﻿  workmangersystem.cpp
+E:\My_C++\C++_Projects\项目：职工管理系统\项目：职工管理系统\workmangersystem.cpp(430,7): warning C4101: “choice”: 未引用的局部变量
+  源.cpp
+  正在生成代码...
+  项目：职工管理系统.vcxproj -> E:\My_C++\C++_Projects\项目：职工管理系统\Debug\项目：职工管理系统.exe
