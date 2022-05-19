@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\My_C++\Winsock\Web_serve_server\Web_serve_server\源.cpp(119,22): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+E:\My_C++\Winsock\Web_serve_server\Web_serve_server\源.cpp(126,37): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\My_C++\Winsock\Web_serve_server\Web_serve_server\源.cpp(35,10): warning C4101: “recvbuf”: 未引用的局部变量
+E:\My_C++\Winsock\Web_serve_server\Web_serve_server\源.cpp(34,9): warning C4101: “iSendResult”: 未引用的局部变量
+  Web_serve_server.vcxproj -> E:\My_C++\Winsock\Web_serve_server\x64\Debug\Web_serve_server.exe
