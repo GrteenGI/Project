@@ -1,0 +1,4 @@
+﻿  Manger.cpp
+E:\My_C++\C++_Projects\项目：机房预约系统\项目：机房预约系统\Manger.cpp(47,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\My_C++\C++_Projects\项目：机房预约系统\项目：机房预约系统\Manger.cpp(357,21): warning C4018: “<”: 有符号/无符号不匹配
+  项目：机房预约系统.vcxproj -> E:\My_C++\C++_Projects\项目：机房预约系统\Debug\项目：机房预约系统.exe
