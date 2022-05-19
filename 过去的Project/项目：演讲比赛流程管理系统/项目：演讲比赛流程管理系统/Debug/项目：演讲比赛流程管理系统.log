@@ -1,0 +1,4 @@
+﻿  SpeechMangersystem.cpp
+E:\My_C++\C++_Projects\项目：演讲比赛流程管理系统\项目：演讲比赛流程管理系统\SpeechMangersystem.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\My_C++\C++_Projects\项目：演讲比赛流程管理系统\项目：演讲比赛流程管理系统\SpeechMangersystem.cpp(138,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  项目：演讲比赛流程管理系统.vcxproj -> E:\My_C++\C++_Projects\项目：演讲比赛流程管理系统\Debug\项目：演讲比赛流程管理系统.exe
