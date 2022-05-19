@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\My_C++\Winsock\T_T_Server_client\T_T_Server_client\源.cpp(32,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\My_C++\Winsock\T_T_Server_client\T_T_Server_client\源.cpp(58,10): warning C4101: “recvbuf”: 未引用的局部变量
+  T_T_Server_client.vcxproj -> E:\My_C++\Winsock\T_T_Server_client\x64\Debug\T_T_Server_client.exe
