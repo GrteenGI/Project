@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Mine">
+        <file>MineFind.png</file>
+        <file>MineUnFind.png</file>
+        <file>Mine.png</file>
+        <file>SetFlag.png</file>
+    </qresource>
+</RCC>
